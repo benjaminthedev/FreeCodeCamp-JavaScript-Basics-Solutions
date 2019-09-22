@@ -1,0 +1,1 @@
+//In this lesson FreeCodeCamp want you to Manipulate Arrays With shift();
