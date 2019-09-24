@@ -21,7 +21,7 @@ Correct the assignment to myStr so it contains the string value of Hello World u
 // Setup
 var myStr = "Jello World";
 
-// Only change code below this line
+// Only change code below this line 
 
 
 //Individual charcters of the string are immuatble so remove this line 
